@@ -1,0 +1,20 @@
+
+n	java:S135"YReduce the total number of break and continue statements in this loop to use at most one.(Ğ‘Ô½
+0
+java:S1220""Move this file to a named package.
+a
+java:S1128"FRemove this unused import 'java.util.concurrent.atomic.AtomicInteger'.(¿êäœøÿÿÿÿ
+J
+java:S6212"/Declare this local variable with "var" instead.(ğÛ²¸øÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(•Ë„Ä
+E
+java:S6212"/Declare this local variable with "var" instead.(¢øÖş
+J
+java:S6212"/Declare this local variable with "var" instead.(óó½«ûÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(¼­¿·
+S	java:S106"9Replace this use of System.out or System.err by a logger.(şêßÛûÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ
+S	java:S106&"9Replace this use of System.out or System.err by a logger.(‹ßèàûÿÿÿÿ
+E
+java:S6212("/Declare this local variable with "var" instead.(éáÍÚ
+S	java:S1060"9Replace this use of System.out or System.err by a logger.(µ”úÒùÿÿÿÿ

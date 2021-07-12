@@ -1,0 +1,22 @@
+
+[	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(âŞ­ñ
+/
+java:S1700"Rename field "board"(˜™«³şÿÿÿÿ
+\
+java:S2259"FA "NullPointerException" could be thrown; "position" is nullable here.(…ºŠÂ
+0
+java:S1220""Move this file to a named package.
+S
+java:S1197"8Move the array designator from the variable to the type.(˜™«³şÿÿÿÿ
+Q
+java:S6212"/Declare this local variable with "var" instead.(Æÿƒ–øÿÿÿÿ8îâÉÇ/
+W
+java:S1126"AReplace this if-then-else statement by a single return statement.(åÄ¶Ÿ
+D
+java:S1659!"'Declare "winColumn" on a separate line.(¦Ä¦¨8¢äÊÇ/
+F
+java:S1659!")Declare "winDiagonal" on a separate line.(¦Ä¦¨8øÔËÇ/
+I
+java:S1659!",Declare "winRevDiagonal" on a separate line.(¦Ä¦¨8øÔËÇ/
+J
+java:S6212#"/Declare this local variable with "var" instead.(ß¸äõûÿÿÿÿ
